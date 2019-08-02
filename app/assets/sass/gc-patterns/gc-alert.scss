@@ -1,0 +1,23 @@
+
+.gc-panel--information {
+    border: 5px solid govuk-colour("blue")
+    padding: 15px;
+    box-shadow: none;
+    background: $white
+  }
+  
+  .gc-panel--success {
+    border: 5px solid govuk-colour("green")
+    padding: 15px;
+    box-shadow: none;
+    background: $white
+  }
+  
+  .gc-panel--warning {
+    border: 5px solid govuk-colour("red")
+    padding: 15px;
+    box-shadow: none;
+    background: $white
+  }
+  
+  
